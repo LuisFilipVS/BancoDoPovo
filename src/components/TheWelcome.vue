@@ -4,10 +4,6 @@
 
 <template>
   <div class="base">
-
-
-  
-
 <v-sheet width="300" class="mx-auto sheet" >
   <v-form @submit.prevent class="form">
     <h2 style="text-align: center; margin-bottom: 20px;">BANCO DO POVO</h2>
